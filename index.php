@@ -112,10 +112,10 @@ session_start();
         <p class="copyright">&#x00A9; 2026 F2P Photography. Hak Cipta By OrangGanteng</p>
         <div class="logo-sosmed">
             <a href="https://www.instagram.com/windahbasudara" target="_blank">
-                <img src="Logo-Instagram-Transparan.png" alt="Logo Instagram">
+                <img src="Instagram.png" alt="Logo Instagram">
             </a>
             <a href="https://www.youtube.com/@WindahBasudara" target="_blank">
-                <img src="1656503919white-youtube-logo.png" alt="Logo Yutub">
+                <img src="Youtube.png" alt="Logo Yutub">
             </a>
         </div>
     </footer>
